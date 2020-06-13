@@ -1,0 +1,3 @@
+cp: cannot open 'BLR' for reading: Permission denied
+cp: cannot open 'BRS' for reading: Permission denied
+cp: cannot open 'CMB' for reading: Permission denied

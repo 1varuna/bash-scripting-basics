@@ -1,0 +1,18 @@
+'BLR' -> '../temp2/BLR'
+cp: cannot open 'BLR' for reading: Permission denied
+'BRS' -> '../temp2/BRS'
+cp: cannot open 'BRS' for reading: Permission denied
+'CMB' -> '../temp2/CMB'
+cp: cannot open 'CMB' for reading: Permission denied
+'file_01' -> '../temp2/file_01'
+'file_02' -> '../temp2/file_02'
+'file_03' -> '../temp2/file_03'
+'file_04' -> '../temp2/file_04'
+'file_05' -> '../temp2/file_05'
+'file_06' -> '../temp2/file_06'
+'file_07' -> '../temp2/file_07'
+'file_08' -> '../temp2/file_08'
+'file_09' -> '../temp2/file_09'
+'file_10' -> '../temp2/file_10'
+'LHR' -> '../temp2/LHR'
+'log.txt' -> '../temp2/log.txt'

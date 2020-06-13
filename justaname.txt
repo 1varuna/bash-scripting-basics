@@ -1,0 +1,4 @@
+First entry into the justaname.txt @ Sat 13 Jun 13:06:28 BST 2020
+Username is varunanand
+Machine Type is x86_64-pc-linux-gnu
+Bash Version in use is 5.0.16(1)-release

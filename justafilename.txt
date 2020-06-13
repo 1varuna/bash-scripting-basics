@@ -1,0 +1,4 @@
+First entry into the justafilename.txt @ [1m[47m[31m[5mSat 13 Jun 13:35:24 BST 2020(B[m
+	 Username is [1m[41m[37mvarunanand(B[m
+	 Machine Type is x86_64-pc-linux-gnu
+	 Bash Version in use is 5.0.16(1)-release
